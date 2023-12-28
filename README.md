@@ -8,6 +8,7 @@ After starting as a sysadmin, I switched to managing Kubernetes, GitLab instance
 
 *   🌍  I'm based in Switzerland
 *   🧠  I'm learning Golang, Rust and a lot of other stuff
+
 <a href="https://www.github.com/dortlii" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/dortlii?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/dortlii" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/dortlii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
