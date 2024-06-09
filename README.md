@@ -7,7 +7,7 @@ DevOps Enigneer
 After starting as a sysadmin, I switched to managing Kubernetes, GitLab instances and writing Go apps.
 
 *   🌍  I'm based in Switzerland
-*   🧠  I'm learning Golang, Ansible, Terraform and a lot of other automation stuff
+*   🧠  I'm learning Golang, Kotlin, Ansible, Terraform and a lot of other automation stuff
 
 <a href="https://www.github.com/dortlii" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/dortlii?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/dortlii" target="_blank" rel="noreferrer"><img
