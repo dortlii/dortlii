@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 👨‍💻 I’m Fabian, started as a sysadmin who always loved to automate everything. Now I'm an SRE working with Kubernetes, Helm and GitLab!<br>
-🎓 Studied Software Engineering
+🎓 Studied Software Engineering<br>
 📫 Feel free to reach out to discuss technology, share learning resources, or just chat about cats!
 
 ## 🌐 Connect with Me:
